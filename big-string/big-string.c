@@ -1,12 +1,5 @@
-#SOME OF MY PROGRAMS WHICH I MADE FOR HAVING FUN WITH C
-
-##THE BIG STRING PROGRAM
-
-```c
-
 #include<string.h>
 #include<stdio.h>
-
 void a();
 void b();
 void c();
@@ -397,4 +390,3 @@ void z()
     printf("  #########\n");
     printf(" ##########\n\n");
 }
-```
