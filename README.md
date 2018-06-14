@@ -1,7 +1,7 @@
 # FUN WITH C
 ## SOME OF MY PROGRAMS WHICH I MADE FOR HAVING FUN WITH C
 
-### THE BIG STRING PROGRAM
+:one: **THE BIG STRING PROGRAM**
 
 ```c
 #include<string.h>
@@ -37,7 +37,6 @@ void z();
 void main()
 {
     int serial;
-    system("color 0F");
     char name[30];
     printf("ENTER THE STRING : ");
     gets(name);

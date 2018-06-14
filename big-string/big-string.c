@@ -1,5 +1,6 @@
 #include<string.h>
 #include<stdio.h>
+
 void a();
 void b();
 void c();
@@ -30,7 +31,6 @@ void z();
 void main()
 {
     int serial;
-    system("color 0F");
     char name[30];
     printf("ENTER THE STRING : ");
     gets(name);
